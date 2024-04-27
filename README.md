@@ -1,4 +1,4 @@
-# 🧺 Laundry App - React Native with Firebase
+# Laundry App - React Native with Firebase
 
 ## 🔑 Project Features
 Here's a quick rundown of the key features in our laundry app:
