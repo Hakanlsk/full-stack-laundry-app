@@ -1,6 +1,6 @@
 # Laundry App - React Native with Firebase
 
-## 🔑 Project Features
+## 🔑 Project Features 
 Here's a quick rundown of the key features in our laundry app:
 
 - **Firebase Authentication**: Secure sign-up and login using Firebase, offering users a quick and safe experience.
